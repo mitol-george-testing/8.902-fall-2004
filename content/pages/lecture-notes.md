@@ -1,8 +1,6 @@
 ---
-course_id: 8-902-astrophysics-ii-fall-2004
-layout: course_section
+content_type: page
 title: Lecture Notes
-type: page
 uid: 71275da2-27cc-624e-d06f-7bd0fe95ec01
 ---
 
@@ -10,17 +8,17 @@ The lecture notes were taken in the Fall of 2001 by Jeremy Schnittman, who as a 
 
 | SES # | TOPICS | LECTURE NOTES |
 | --- | --- | --- |
-| L1 | Introduction: What is a Galaxy? | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec1)) |
-| L2 | How Do You Build a Galaxy? | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec2)) |
-| L3 | How are Galaxies Described? | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec3)) |
-| L4 | Gravitational Potentials: General Results | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec4)) |
-| L5 | Interesting and Special Cases | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec5)) |
-| L6 | Orbits in Spherical Potentials and Integrals | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec6)) |
-| L7 | Orbits in Axisymmetric Potentials  {{< br >}}  {{< br >}}Epicyclic Approximation | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec7)) |
-| L8 | Equilibria of Stellar Systems  {{< br >}}  {{< br >}}Boltzmann Equation | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec8))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/sections/lecture-notes/lec9)) |
-| L9 | Jeans' Equations in Spherical Coordinates | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec10)) |
-| L10 | Jeans' Equations Applied  {{< br >}}  {{< br >}}Jeans' Theorem | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec11)) |
-| L11 | Stability: Jeans Mass and Spiral Structure | ([PDF]({{< baseurl >}}/sections/lecture-notes/lec12)) |
+| L1 | Introduction: What is a Galaxy? | ([PDF]({{< baseurl >}}/resources/lec1)) |
+| L2 | How Do You Build a Galaxy? | ([PDF]({{< baseurl >}}/resources/lec2)) |
+| L3 | How are Galaxies Described? | ([PDF]({{< baseurl >}}/resources/lec3)) |
+| L4 | Gravitational Potentials: General Results | ([PDF]({{< baseurl >}}/resources/lec4)) |
+| L5 | Interesting and Special Cases | ([PDF]({{< baseurl >}}/resources/lec5)) |
+| L6 | Orbits in Spherical Potentials and Integrals | ([PDF]({{< baseurl >}}/resources/lec6)) |
+| L7 | Orbits in Axisymmetric Potentials  {{< br >}}  {{< br >}}Epicyclic Approximation | ([PDF]({{< baseurl >}}/resources/lec7)) |
+| L8 | Equilibria of Stellar Systems  {{< br >}}  {{< br >}}Boltzmann Equation | ([PDF]({{< baseurl >}}/resources/lec8))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/lec9)) |
+| L9 | Jeans' Equations in Spherical Coordinates | ([PDF]({{< baseurl >}}/resources/lec10)) |
+| L10 | Jeans' Equations Applied  {{< br >}}  {{< br >}}Jeans' Theorem | ([PDF]({{< baseurl >}}/resources/lec11)) |
+| L11 | Stability: Jeans Mass and Spiral Structure | ([PDF]({{< baseurl >}}/resources/lec12)) |
 | L12 | Gravitational Mirages (aka lenses) via Fermat's Principle | &nbsp; |
 | L13 | Applied Gravitational Lensing | &nbsp; |
 | L14 | Weak Lensing | &nbsp; |

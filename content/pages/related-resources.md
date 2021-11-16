@@ -1,8 +1,6 @@
 ---
-course_id: 8-902-astrophysics-ii-fall-2004
-layout: course_section
+content_type: page
 title: Related Resources
-type: page
 uid: f03329c6-d683-2f08-7415-3a2759447339
 ---
 

@@ -1,8 +1,6 @@
 ---
-course_id: 8-902-astrophysics-ii-fall-2004
-layout: course_section
+content_type: page
 title: Calendar
-type: page
 uid: 0e970194-618e-a606-d850-fe9b02118400
 ---
 

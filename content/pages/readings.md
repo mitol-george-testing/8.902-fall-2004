@@ -1,8 +1,6 @@
 ---
-course_id: 8-902-astrophysics-ii-fall-2004
-layout: course_section
+content_type: page
 title: Readings
-type: page
 uid: 9de35c7e-5da7-cb90-0e93-d689bb4f6003
 ---
 
